@@ -1,5 +1,5 @@
 def patt_size():
-    patt = int(input("Enter the seize of the pattern: "))
+    patt = int(input("Enter the size of the pattern: "))
     row = 0
     while row < patt:
         for _ in range(patt):
